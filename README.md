@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D3557,100:E63946&height=180&section=header&text=Guilherme Oda&fontSize=56&fontColor=FFFFFF&fontAlignY=36&desc=Desenvolvedor%20.NET%20%C2%B7%20Backend%20%26%20Blazor&descSize=16&descAlignY=58&descColor=F1FAEE" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D3557,100:E63946&height=180&section=header&text=Guilherme%20Oda&fontSize=50&fontColor=FFFFFF&fontAlignY=36&desc=Desenvolvedor%20.NET%20%C2%B7%20Backend%20%26%20Blazor&descSize=16&descAlignY=58&descColor=F1FAEE" />
 
 <a href="https://github.com/guioda?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-1D3557?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://github.com/guioda?tab=stars"><img src="https://img.shields.io/badge/Favoritos-E63946?style=for-the-badge&logo=github&logoColor=white" /></a>
