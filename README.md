@@ -9,7 +9,7 @@
 
 ## Sobre mim
 
-Oi! Sou o Gui, desenvolvedor focado em backend. Trabalho principalmente com C# e .NET, construindo APIs e lidando com bancos de dados relacionais.
+Oi! Sou o Guilherme Oda, desenvolvedor focado em backend. Trabalho principalmente com C# e .NET, construindo APIs e lidando com bancos de dados relacionais.
 
 Gosto de entender como os sistemas funcionam por dentro, organizar bem o código e transformar requisitos em algo que funcione de verdade.
 
