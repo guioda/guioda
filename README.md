@@ -9,13 +9,12 @@
 
 ## Sobre mim
 
-Oi! Sou o Guilherme Oda, desenvolvedor focado em backend. Trabalho principalmente com C# e .NET, construindo APIs e lidando com bancos de dados relacionais.
+Olá! Sou o Guilherme Oda, desenvolvedor focado em backend. Trabalho principalmente com C# e .NET, construindo APIs e lidando com bancos de dados relacionais.
 
 Gosto de entender como os sistemas funcionam por dentro, organizar bem o código e transformar requisitos em algo que funcione de verdade.
 
 - Construindo aplicações backend com C# e .NET
-- Estudando mais a fundo SQL Server e PostgreSQL
-- Aprendendo sobre arquitetura de software e boas práticas de APIs
+
 
 ## Tecnologias
 
@@ -29,12 +28,7 @@ Gosto de entender como os sistemas funcionam por dentro, organizar bem o código
   <img src="https://img.shields.io/badge/VS%20Code-F1FAEE?style=flat-square&logo=visualstudiocode&logoColor=1D3557" />
 </p>
 
-## Estatísticas
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guioda&show_icons=true&hide_border=true&bg_color=1D3557&title_color=E63946&icon_color=E63946&text_color=FFFFFF&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guioda&layout=compact&hide_border=true&bg_color=1D3557&title_color=E63946&text_color=FFFFFF" />
-</div>
 
 ## Contato
 
